@@ -1,6 +1,16 @@
+-----------
+
+layout:default 
+title: "My website"
+
+
 # My github website
 
 My name is Muhammad Rehman Shirzad
+
+
+
+
 
 ## H1
 
